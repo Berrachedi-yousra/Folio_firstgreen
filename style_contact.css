@@ -1,0 +1,130 @@
+/* Style contact */
+
+.container{
+    background-color: black;
+    width: 1348;
+    height: 600;
+    position: relative;
+}
+
+.incontainer{
+    background-color: black;
+    width: 600;
+    height: 400;
+    margin-top: 45;
+    margin-left: 380;
+    position: absolute;
+    border: 2.5px solid rgb(1, 161, 121);
+    border-radius: 10px;
+}
+
+.incontainer img{
+    margin-left: 200;
+    margin-top: 100;
+    position: absolute;
+    height: 300;
+    width: 400;
+    opacity: 50%;
+}
+
+.navbar{
+    background-color: black;
+    width: 1330;
+    height: 65;
+    margin-top: 15;
+    position: relative;
+}
+
+.navbar2{
+    width: 570;
+    height: 55;
+    margin-top: 5;
+    margin-left: 670;
+    position: absolute;
+    border-bottom: white solid 2px;
+}
+
+.navbar1{
+    background-color: white;
+    width: 200;
+    height: 55;
+    margin-top: 5;
+    position: absolute;
+}
+
+.navbar1 img{
+    width: 200;
+    height: 55;
+}
+
+.inin{
+    background-color: black;
+    border-radius: 10px;
+    /*border: 2px solid white;*/
+    width: 300;
+    height: 250;
+    margin-top: 100;
+    margin-left: 165;
+    position: absolute;
+}
+
+.inin p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20;
+    margin-left: 20;
+}
+
+.marge{
+    background-color: rgb(1, 161, 121);
+    width: 1348;
+    height: 30;
+    position: absolute;
+    margin-top: 507;
+}
+
+.hclasse1{
+    color: white;
+    font-size: 40px;
+    font-family: "Brush Script MT", cursive;
+    position: absolute;
+}
+
+.hclasse2{
+    color: rgb(1, 161, 121);
+    font-size: 40px;
+    font-family: "Brush Script MT", cursive;
+    position: absolute;
+    margin-left: 120;
+}
+
+.button_main{
+    font-size: 28px;
+    color: rgb(1, 161, 121);
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.button_main:hover{
+    color: white;
+}
+
+.btn{
+    font-size: 28px;
+    color: white;
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-left: 55;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.btn:hover{
+    color: rgb(1, 161, 121);
+}

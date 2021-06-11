@@ -1,0 +1,189 @@
+.navbar{
+    background-color: black;
+    width: 1330;
+    height: 65;
+    margin-top: 15;
+    position: relative;
+}
+
+.navbar2{
+    width: 570;
+    height: 55;
+    margin-top: 5;
+    margin-left: 670;
+    position: absolute;
+    border-bottom: white solid 2px;
+}
+
+.navbar1{
+    background-color: white;
+    width: 200;
+    height: 55;
+    margin-top: 5;
+    position: absolute;
+}
+
+.navbar1 img{
+    width: 200;
+    height: 55;
+}
+
+.intro{
+    background-color: black;
+    width: 1328;
+    height: 525;
+    margin-top: 10;
+    position: relative;
+}
+
+.container{
+    background-color: black;
+    width: 1335;
+    height: 600;
+    position: relative;
+}
+
+.button_main{
+    font-size: 28px;
+    color: rgb(1, 161, 121);
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.button_main:hover{
+    color: white;
+}
+
+.btn{
+    font-size: 28px;
+    color: white;
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-left: 55;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.btn:hover{
+    color: rgb(1, 161, 121);
+}
+
+.container h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 70;
+    margin-left: 605;
+}
+
+.incontainer{
+    border-bottom: rgb(1, 161, 121) 3px solid;
+    width: 450;
+    height: 200;
+    margin-top: 50;
+    margin-left: 440;
+    position: absolute;
+}
+
+.incontainer p{
+    color: white;
+    font-size: 35px;
+    margin-top: 50;
+    margin-left: 80;
+    width: 300;
+    text-align: center;
+}
+
+.design{
+    width: 350;
+    height: 350;
+    margin-top: 22;
+    margin-left: 985;
+    position: absolute;
+    opacity: 30%;
+}
+
+.global{
+    background-color: transparent;
+    width: 1335;
+    height: 700;
+    position: relative;
+}
+
+.divid{
+    margin-top: 50;
+    width: 350;
+    height: 600;
+    background-color: white;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.dividin{
+    background-color: black;
+    width: 344;
+    height: 594;
+    margin-top: 3;
+    margin-left: 3;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.div_num{
+    margin-top: 30;
+    margin-left: 133;
+    width: 70;
+    height: 70;
+}
+
+.down{
+    width: 50;
+    height: 50;
+    margin-top: 30;
+    margin-left: 143;
+}
+
+.title2{
+    background-color: rgb(1, 161, 121);
+    width: 200;
+    height: 50;
+    border-radius: 10px;
+    margin-top: 20;
+    margin-left: 72;
+}
+
+.title2 p{
+    color: white;
+    padding-top: 10;
+    margin-left: 15;
+    font-size: 25px;
+}
+
+.colorbtm{
+    background-color: rgb(1, 161, 121);
+    width: 1335;
+    height: 30;
+    position: relative;
+}
+
+.wr{
+    background-color: transparent;
+    border: white 2px solid;
+    border-radius: 10px;
+    margin-top: 30;
+    margin-left: 70;
+    width: 200;
+    height: 250;
+}
+
+.wr p{
+    color: white;
+    font-size: 15px;
+    margin-top: 10;
+    margin-left: 10;
+}

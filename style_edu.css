@@ -1,0 +1,422 @@
+/* Style education */
+
+.first{
+    width: 450;
+    height: 250;
+    margin-top: 50;
+    margin-left: 160;
+    position: absolute;
+    border: 2px solid rgb(1, 161, 121);
+    border-radius: 10px;
+}
+
+.first h1{
+    color: white;
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+    margin-top: 55;
+    margin-left: 120;
+}
+
+.second{
+    width: 450;
+    height: 250;
+    margin-top: 50;
+    margin-left: 750;
+    position: absolute;
+    border: 2px solid rgb(1, 161, 121);
+    border-radius: 10px;
+}
+
+.second h1{
+    color: white;
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+    margin-top: 55;
+    margin-left: 160;
+}
+
+.navbar{
+    background-color: black;
+    width: 1330;
+    height: 65;
+    margin-top: 15;
+    position: relative;
+}
+
+.navbar2{
+    width: 570;
+    height: 55;
+    margin-top: 5;
+    margin-left: 670;
+    position: absolute;
+    border-bottom: white solid 2px;
+}
+
+.navbar1{
+    background-color: white;
+    width: 200;
+    height: 55;
+    margin-top: 5;
+    position: absolute;
+}
+
+.navbar1 img{
+    width: 200;
+    height: 55;
+}
+
+.intro{
+    background-color: black;
+    width: 1328;
+    height: 525;
+    margin-top: 10;
+    position: relative;
+}
+
+.container{
+    background-color: black;
+    width: 1335;
+    height: 600;
+    position: relative;
+}
+
+.button_main{
+    font-size: 28px;
+    color: rgb(1, 161, 121);
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.button_main:hover{
+    color: white;
+}
+
+.btn{
+    font-size: 28px;
+    color: white;
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-left: 55;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.btn:hover{
+    color: rgb(1, 161, 121);
+}
+
+.btn_more{
+    width: 150;
+    height: 50;
+    color: white;
+    background-color: rgb(1, 161, 121);
+    border: none;
+    border-radius: 10px;
+    margin-top: -10;
+    margin-left: 150;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn_more:hover{
+    color: rgb(1, 161, 121);
+    background-color: white;
+    transition: 0.4s;
+}
+
+.title{
+    margin-top: 70;
+    margin-left: 580;
+    color: white;
+    font-size: 50px;
+}
+
+.certif{
+    width: 1335;
+    height: 1500;
+    margin-top: 10;
+}
+
+.certif_title{
+    width: 200;
+    height: 60;
+    font-size: 60px;
+    font-family: "Brush Script MT", cursive;
+    color: rgb(1, 161, 121);
+    margin-left: 565;
+}
+
+.ligne_certif{
+    width: 1335;
+    height: 400;
+    margin-top: 70;
+    position: relative;
+}
+
+.divid_right{
+    width: 600;
+    height: 400;
+    margin-left: 700;
+    position: absolute;
+    border: rgb(1, 161, 121) 2px solid; 
+    border-radius: 10px;
+}
+
+.divid_right img{
+    width: 580;
+    height: 380;
+    margin-top: 10;
+    margin-left: 10;
+    border-radius: 10px;
+}
+
+.divid_left{
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+    width: 500;
+    height: 300;
+    margin-top: 50;
+    margin-left: 100;
+    position: absolute;
+}
+
+.divid_left h1{
+    color: white;
+    font-size: 30px;
+    margin-top: 65;
+    margin-left: 120;
+}
+
+.divid_left p{
+    width: 400;
+    height: 200;
+    margin-top: 40;
+    margin-left: 50;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.divid_right2{
+    width: 600;
+    height: 400;
+    margin-left: 30;
+    position: absolute;
+    border: rgb(1, 161, 121) 2px solid; 
+    border-radius: 10px;
+}
+
+.divid_right2 img{
+    width: 580;
+    height: 380;
+    margin-top: 10;
+    margin-left: 10;
+    border-radius: 10px;
+}
+
+.divid_left2{
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+    width: 500;
+    height: 300;
+    margin-top: 50;
+    margin-left: 750;
+    position: absolute;
+}
+
+.divid_left2 h1{
+    color: white;
+    font-size: 30px;
+    margin-top: 65;
+    margin-left: 120;
+}
+
+.divid_left2 p{
+    width: 400;
+    height: 200;
+    margin-top: 40;
+    margin-left: 50;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cursus_title{
+    width: 200;
+    height: 60;
+    font-size: 60px;
+    font-family: "Brush Script MT", cursive;
+    color: rgb(1, 161, 121);
+    margin-left: 595;
+}
+
+.cursus_div{
+    width: 1330;
+    height: 1000;
+    margin-top: 70;
+    position: relative;
+}
+
+.divml{
+    background-color: rgb(1, 161, 121);
+    width: 20;
+    height: 930;
+    margin-left: 655;
+    position: absolute;
+    border-radius: 10px;
+}
+.divleft{
+    width: 655;
+    height: 700;
+    position: absolute;
+}
+
+.divright{
+    width: 655;
+    height: 700;
+    margin-left: 675;
+    position: absolute;
+}
+
+.certif2{
+    width: 1335;
+    height: 1000;
+    margin-top: 10;
+}
+
+.circleleft{
+    background-color: rgb(1, 161, 121);
+    width: 50;
+    height: 30;
+    border-radius: 10px;
+    margin-top: 80;
+    margin-left: 610;
+    position: absolute;
+}
+
+.writingleft{
+    position: absolute;
+    background-color: white;
+    margin-top: 20;
+    margin-left: 90;
+    border-radius: 10px;
+    width: 500;
+    height: 150;
+}
+
+.writingleftin{
+    background-color: white;
+    position: absolute;
+    margin-top: 8;
+    margin-left: 8;
+    border-radius: 10px;
+    width: 480;
+    height: 130;
+    border: rgb(1, 161, 121) 2px solid;
+}
+
+.writingleftin h2{
+    color: black;
+    margin-top: 20;
+    margin-left: 180;
+}
+
+.Year{
+    color: rgb(1, 161, 121);
+    font-size: 15px;
+    margin-top: -5;
+    margin-left: 110;
+    position: absolute;
+    font-weight: bold;
+}
+
+.adresse{
+    color: black;
+    font-size: 15px;
+    margin-top: -5;
+    margin-left: 230;
+}
+
+.ranking{
+    margin-left: 200;
+    font-weight: bold;
+}
+
+.circleright{
+    background-color: rgb(1, 161, 121);
+    width: 50;
+    height: 30;
+    border-radius: 10px;
+    margin-top: 260;
+    margin-left: -5;
+    position: absolute;
+}
+
+.writingright{
+    position: absolute;
+    background-color: white;
+    margin-top: 205;
+    margin-left: 70;
+    border-radius: 10px;
+    width: 500;
+    height: 150;
+}
+
+.writingrightin{
+    background-color: white;
+    position: absolute;
+    margin-top: 8;
+    margin-left: 8;
+    border-radius: 10px;
+    width: 480;
+    height: 130;
+    border: rgb(1, 161, 121) 2px solid;
+}
+
+.writingrightin h2{
+    color: black;
+    margin-top: 20;
+    margin-left: 180;
+}
+
+.cnt{
+    background-color: black;
+    margin-top: 50;
+    width: 1335;
+    height: 150;
+    position: relative;
+}
+
+.ctn_icons{
+    width: 230;
+    height: 50;
+    position: absolute;
+    margin-top: 50;
+    margin-left: 400;
+}
+
+.ctn_content{
+    width: 270;
+    height: 100;
+    position: absolute;
+    margin-top: 25;
+    margin-left: 720;
+    border-left: white 2px solid;
+    border-right: white 2px solid;
+}
+
+.ctn_content p{
+    font-size: 15px;
+    margin-top: 7;
+    margin-left: 27;
+    color: white;
+}

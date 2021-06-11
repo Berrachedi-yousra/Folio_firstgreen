@@ -1,0 +1,233 @@
+.navbar{
+    background-color: black;
+    width: 1330;
+    height: 65;
+    margin-top: 15;
+    position: relative;
+}
+
+.navbar2{
+    width: 670;
+    height: 55;
+    margin-top: 5;
+    margin-left: 670;
+    position: absolute;
+}
+
+.navbar1{
+    background-color: white;
+    width: 200;
+    height: 55;
+    margin-top: 5;
+    position: absolute;
+}
+
+.navbar1 img{
+    width: 200;
+    height: 55;
+}
+
+.intro{
+    background-color: black;
+    width: 1328;
+    height: 525;
+    margin-top: 10;
+    position: relative;
+}
+
+.left{
+    width: 450;
+    height: 300;
+    position: absolute;
+    margin-top: 220;
+    margin-left: 150;
+}
+
+.left p{
+    color: white;
+    font-size: 20px;
+    margin-top: 80;
+}
+
+.right{
+    background-color: blanchedalmond;
+    width: 549;
+    height: 523;
+    position: absolute;
+    margin-left: 780;
+}
+
+.right img{
+    width: 549;
+    height: 523;
+}
+
+.button_home{
+    font-size: 28px;
+    color: rgb(1, 161, 121);
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.button_home:hover{
+    color: white;
+}
+
+.btn{
+    font-size: 28px;
+    color: white;
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-left: 55;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.btn:hover{
+    color: rgb(1, 161, 121);
+}
+
+.hclasse1{
+    color: white;
+    font-size: 40px;
+    font-family: "Brush Script MT", cursive;
+    position: absolute;
+}
+
+.hclasse2{
+    color: rgb(1, 161, 121);
+    font-size: 40px;
+    font-family: "Brush Script MT", cursive;
+    position: absolute;
+    margin-left: 120;
+}
+
+.btndef{
+    color: white;
+    font-size: 25px;
+    font-family: "Brush Script MT", cursive;
+    background-color: rgb(1, 161, 121);
+    border: none;
+    margin-top: 30;
+    width: 180;
+    height: 50;
+    border-radius: 5px;
+}
+
+.btndef:hover{
+    background-color: black;
+    border: 2.5px solid white;
+    border-color: rgb(1, 161, 121);
+    transition: 0.4s;
+}
+
+.btndef2{
+    color: rgb(1, 161, 121);
+    font-size: 25px;
+    font-family: "Brush Script MT", cursive;
+    background-color: white;
+    border: none;
+    margin-top: 30;
+    margin-left: 10;
+    width: 130;
+    height: 50;
+    border-radius: 5px;
+}
+
+.btndef2:hover{
+    background-color: black;
+    border: 2.5px solid white;
+    transition: 0.4s;
+}
+
+.description{
+    background-color: black;
+    width: 1330;
+    height: 500;
+    margin-top: 15;
+    position: relative;
+}
+
+.description h1{
+    font-size: 50px;
+    font-family: "Brush Script MT", cursive;
+    margin-top: 30;
+    margin-left: 580;
+    color: white;
+    position: absolute;
+}
+
+.indescription{
+    border-radius: 10px;
+    border: 2px solid rgb(1, 161, 121);
+    width: 700;
+    height: 200;
+    margin-top: 120;
+    margin-left: 315;
+    position: absolute;
+}
+
+.indescription p{
+    color: white;
+    font-size: 20px;
+    margin-top: 70;
+    margin-left: 40;
+}
+
+.btn_next{
+    background-color: rgb(1, 161, 121);
+    color: white;
+    font-size: 27px;
+    font-family: "Brush Script MT", cursive;
+    margin-top: 375;
+    margin-left: 575;
+    border: none;
+    border-radius: 10px;
+    width: 200;
+    height: 50;
+}
+
+.btn_next:hover{
+    background-color: transparent;
+    border: 2px solid white;
+    color: rgb(1, 161, 121);
+    transition: 0.4s;
+}
+
+.links{
+    background-color: black;
+    width: 1330;
+    height: 150;
+    margin-top: 15;
+    position: relative;
+}
+
+.btn_links{
+    width: 60;
+    height: 60;
+    margin-top: 45;
+    position: absolute;
+    border: none;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+
+.links img{
+    width: 65;
+    height: 65;
+    margin-top: -3.5;
+    margin-left: -8;
+}
+
+.decor{
+    width: 1330;
+    height: 10;
+    background-color: rgb(1, 161, 121);
+}

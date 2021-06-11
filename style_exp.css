@@ -1,0 +1,199 @@
+.navbar{
+    background-color: black;
+    width: 1330;
+    height: 65;
+    margin-top: 15;
+    position: relative;
+}
+
+.navbar2{
+    width: 570;
+    height: 55;
+    margin-top: 5;
+    margin-left: 670;
+    position: absolute;
+    border-bottom: white solid 2px;
+}
+
+.navbar1{
+    background-color: white;
+    width: 200;
+    height: 55;
+    margin-top: 5;
+    position: absolute;
+}
+
+.navbar1 img{
+    width: 200;
+    height: 55;
+}
+
+.intro{
+    background-color: black;
+    width: 1328;
+    height: 525;
+    margin-top: 10;
+    position: relative;
+}
+
+.container{
+    background-color: black;
+    width: 1335;
+    height: 600;
+    position: relative;
+}
+
+.button_main{
+    font-size: 28px;
+    color: rgb(1, 161, 121);
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.button_main:hover{
+    color: white;
+}
+
+.btn{
+    font-size: 28px;
+    color: white;
+    width: 55;
+    height: 30;
+    border: none;
+    background-color: transparent;
+    margin-left: 55;
+    margin-top: 10;
+    font-family: "Brush Script MT", cursive;
+}
+
+.btn:hover{
+    color: rgb(1, 161, 121);
+}
+
+.container h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 70;
+    margin-left: 530;
+}
+
+.incontainer{
+    border-bottom: rgb(1, 161, 121) 3px solid;
+    width: 450;
+    height: 200;
+    margin-top: 50;
+    margin-left: 440;
+    position: absolute;
+}
+
+.incontainer p{
+    color: white;
+    font-size: 35px;
+    margin-top: 50;
+    margin-left: 50;
+    width: 350;
+    text-align: center;
+}
+
+.design{
+    width: 350;
+    height: 350;
+    margin-top: 22;
+    margin-left: 985;
+    position: absolute;
+    opacity: 30%;
+}
+
+.global{
+    width: 1335;
+    height: 1350;
+    position: relative;
+    margin-top: 50;
+}
+
+.vertical{
+    background-color: rgb(1, 161, 121);
+    width: 30;
+    height: 1270;
+    margin-top: 30;
+    margin-left: 50;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.ligne{
+    width: 1150;
+    height: 200;
+    margin-top: 60;
+    margin-left: 130;
+    position: absolute;
+    border-bottom: white 3px solid;
+    background-color: black;
+}
+
+.tiret{
+    background-color: rgb(1, 161, 121);
+    width: 50;
+    height: 30;
+    margin-left: 80;
+    position: absolute;
+}
+
+.first{
+    width: 250;
+    height: 100;
+    position: absolute;
+    margin-top: 50;
+    margin-left: 90;
+}
+
+.year{
+    font-size: 15px;
+    margin-top: 20;
+    margin-left: 50;
+    color: rgb(1, 161, 121);
+    font-weight: bold;
+}
+
+.job{
+    font-size: 20px;
+    margin-top: 10;
+    margin-left: 10;
+    color: white;
+}
+
+.second{
+    width: 450;
+    height: 200;
+    position: absolute;
+    margin-left: 400;
+}
+
+.second h3{
+    color: white;
+    margin-left: 50;
+}
+
+.second p{
+    color: white;
+    margin-top: 5;
+    margin-left: 50;
+}
+
+.image_right{
+    width: 150;
+    height: 150;
+    position: absolute;
+    margin-left: 900;
+    margin-top: 25;
+}
+
+.div_last{
+    background-color: rgb(1, 161, 121);
+    width: 1335;
+    height: 30;
+}
